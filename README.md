@@ -1,2 +1,2 @@
 # pricing-table
-It's a pricing table using dynamic input by the user and it is available for monthly price and annual price and the website is responsive
+It's an pricing table which includes features like users to explore different pricing options dynamically and providing the flexibility to customize currency symbols and measurement units based on user preferences and the table is responsive.
